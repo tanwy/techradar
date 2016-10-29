@@ -30,4 +30,4 @@ See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
 暂缓环逐渐演化成了“别用这项技术启动任何新项目”。在已有项目上使用它没有坏处，但是想在新开发的项目上使用这个技术的话需要三思而行。暂缓是最靠近避免范畴的
 
 
-![Technology Radar Sample](/techradar_example.png?raw=true)
+
