@@ -1,22 +1,20 @@
 打造个人技术雷达
 
-收到了 ThoughtWorks技术雷达的启发: http://www.thoughtworks.com/radar/.
+受到ThoughtWorks技术雷达的启发: http://www.thoughtworks.com/radar/.
 
-I love the ThoughtWorks Radar. But it is for all clients, averaged out across industries, organisational maturity and risk adverseness.
+我非常喜欢ThoughtWorks技术雷达。但是它是针对所有客户，跨产业、跨组织的平均成熟度和风险厌恶。
 
 ![Technology Radar Sample](/techradar_example.png?raw=true)
 
-It is a powerful talking point, but I need it to be customised for particular circumstances.
+这是一个强大的话题了，但是我需要它为特定情况定制。
 
-This Technology Radar has pretty simple functionality, uses json data source and renders SVG within html.
+本项目的技术的雷达有着很简单的功能，使用JSON数据源，在HTML内部渲染成SVG。
 
-The data currently is provided in a radial format. I chose this and SVG, for the scalable properties. In practice, a table based structure, that automatically lays out the points could be more useful.
+目前提供的数据按照径向格式提供。我选择这个格式和SVG,是为了尽可能可变。在实践中，一个表格形式结构,在进行自动化布局这些点，将会非常有用。
 
-Eg. {name:'Cool Tech', r:50, t:30}
-Appears in the Top Right Quadrant, in the inner most "Adopt" Sector.
+例如. {name:'Cool Tech', r:50, t:30}，出现在右上象限，"采用"这一节内部。
 
-Eg. {name:'Bright Shiny Toy 5', r:390, t:30}
-Appears in the Top Right Quadrant, in the outer most "Hold" Sector.
+例如. {name:'Bright Shiny Toy 5', r:390, t:30} 出现在右上象限，在最外层最“保持”的这一节。
 
 Appears in the Lower Left Quadrant, in the second "Trial" Sector.
 
