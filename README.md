@@ -20,6 +20,8 @@ Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees bein
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
 
+**关于雷达的比喻十分恰当：雷达跟踪的是将要到来的事物。**
+
 <h4>采用</h4>
 对于采用环里的技术，我们强烈主张业界采用它们。如果适合我们的项目，我们就尽量毫不犹豫地使用。
 <h4>实验</h4>

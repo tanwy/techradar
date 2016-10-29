@@ -175,9 +175,9 @@ var radar_data = [
             {"name":'Spring Boot', pc: { r: 60, t: 290 },  movement: 'c' },
             {"name":'React.js', pc: { r: 60, t: 310 },  movement: 'c' },
             {"name":'Python', pc: { r: 60, t: 278 },  movement: 'c' },
-            {"name":'Java 8',pc: { r: 50, t: 298 },movement: 'c',domain: 'template' },
+            {"name":'ECMAScript 6',pc: { r: 50, t: 298 },movement: 'c',domain: 'template' },
 
-            {"name":'实验1', "pc":{"r":150,"t":298},"movement":'c',domain:'template' },          
+            {"name":'Java 8', "pc":{"r":150,"t":298},"movement":'c',domain:'template' },          
             {"name":"实验2", "pc":{"r":130,"t":355},"movement":"c"},   
             {"name":"实验3", "pc":{"r":190,"t":280},"movement":"c"},
 
