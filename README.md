@@ -1,6 +1,6 @@
-Build Your Own Technology Radar.
+打造个人技术雷达
 
-Inspired by the ThoughtWorks Tech Radar: http://www.thoughtworks.com/radar/.
+收到了 ThoughtWorks技术雷达的启发: http://www.thoughtworks.com/radar/.
 
 I love the ThoughtWorks Radar. But it is for all clients, averaged out across industries, organisational maturity and risk adverseness.
 
