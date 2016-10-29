@@ -4,8 +4,6 @@
 
 我非常喜欢ThoughtWorks技术雷达。但是它是针对所有客户，跨产业、跨组织的平均成熟度和风险厌恶。
 
-![Technology Radar Sample](/techradar_example.png?raw=true)
-
 这是一个强大的话题了，但是我需要它为特定情况定制。
 
 本项目的技术的雷达有着很简单的功能，使用JSON数据源，在HTML内部渲染成SVG。
@@ -21,3 +19,5 @@ Appears in the Lower Left Quadrant, in the second "Trial" Sector.
 Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees being the typical right hand x line rotating in an anti-clockwise direction.
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
+
+![Technology Radar Sample](/techradar_example.png?raw=true)
